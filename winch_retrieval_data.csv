@@ -1,0 +1,4 @@
+motor_speed_r_min,load_mass_kg,retrieval_time_s,cable_length_m,retrieval_speed_reported_m_s,time_per_unit_length_s_m
+500,7.8,136,15,0.110,9.07
+700,7.8,96,15,0.156,6.40
+1000,7.8,65,15,0.230,4.33
